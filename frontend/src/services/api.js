@@ -1,12 +1,7 @@
 import axios from "axios";
 
-// In local dev, Vite proxies "/api" to http://localhost:5000 (see vite.config.js).
-// In production (Vercel), there is no such proxy, so we call the deployed
-// backend directly. Set VITE_API_URL in Vercel's project settings to override.
-const baseURL = import.meta.env.VITE_API_URL || "/api";
-
 const api = axios.create({
-  baseURL,
+  baseURL: "/api",
   timeout: 20000,
 });
 

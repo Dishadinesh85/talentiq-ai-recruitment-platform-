@@ -36,7 +36,10 @@
 
 | Dashboard | AI Recruiter | Analytics |
 |---|---|---|
-| _add screenshot_ | _add screenshot_ | _add screenshot_ |
+| <img width="1887" height="1028" alt="image" src="https://github.com/user-attachments/assets/488741cb-4c0d-4c29-938d-ab1dfce1bd50" />
+ |<img width="1901" height="1025" alt="image" src="https://github.com/user-attachments/assets/efab4223-19a8-440a-b21f-a9cb8c91e34a" />
+ |<img width="1883" height="1047" alt="image" src="https://github.com/user-attachments/assets/e0f42f87-4c1d-4d33-a4cc-18d7099e1417" />
+ |
 
 ## ✨ Features
 

@@ -26,8 +26,8 @@
 
 | | |
 |---|---|
-| **Frontend (Vercel)** | [talentiq-ai.vercel.app](#) _(replace with your deployed link)_ |
-| **Backend API (Render)** | [talentiq-ai-api.onrender.com](#) _(replace with your deployed link)_ |
+| **Frontend (Vercel)** | https://talentiq-ai-recruitment-platform.vercel.app/ |
+| **Backend API (Render)** |  https://talentiq-ai-recruitment-platform-64lk.onrender.com |
 
 > Free-tier backend hosts (Render) spin down after inactivity — the first request after idle
 > time can take ~30–60s to wake up.
